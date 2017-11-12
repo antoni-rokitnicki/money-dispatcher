@@ -1,0 +1,4 @@
+slack:
+  bot:
+    token: <TOKEN>
+    verification: <TOKEN>
