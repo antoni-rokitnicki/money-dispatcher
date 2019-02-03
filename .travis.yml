@@ -11,4 +11,4 @@ before_install:
   - docker-compose up -d
 
 script:
-  - mvn clean verify
+  -  ./gradlew test
